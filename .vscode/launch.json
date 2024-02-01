@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://tag.textContent",
+            "request": "launch",
+            "url": "http://tag.textContent"
+        }
+    ]
+}
